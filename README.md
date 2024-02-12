@@ -11,7 +11,17 @@
 
 ## Subject
 
+* [Adjustment](#adjustment)
 * [Link](#link)
+
+
+
+
+## Adjustment
+
+| Adjustment |
+| ---------- |
+| [24.04](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 
 
 
