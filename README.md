@@ -32,3 +32,7 @@
 | ---- | ------ |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Kde Adjustment](https://samwhelp.github.io/kde-adjustment/) | [GitHub](https://github.com/samwhelp/kde-adjustment) |
+| [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
+| [Xubuntu Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
+| [Lubuntu Adjustment](https://samwhelp.github.io/lubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/lubuntu-adjustment) |
