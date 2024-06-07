@@ -10,7 +10,7 @@ has_children: true
 
 ## Link
 
-* KDE / [Applications](https://apps.kde.org/) ([應用程式](https://apps.kde.org/zh-tw/))
+* KDE / [Applications](https://apps.kde.org/)
 
 
 ## Project
